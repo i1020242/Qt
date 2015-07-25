@@ -1,0 +1,73 @@
+Rule:
+I : Impolite
+P : Polite
+N : Normal  
+1. No no, I don't play well with ...(dance,soccer,card): Tôi không biết chơi ...: P
+2. No no, I'm sucking with ..... I 
+3. Beat me: Bó tay -I  
+4. I have no idea: Tôi không biết -P (I have no idea but I can learn quickly->good programmer ).
+5. I don't exactly what u think: Ý em sao -I
+6. We almost out of fuel: Chúng ta hết nhiên liệu rồi -N
+7. So much bad thing at once : Quá nhiều điều bất lợi lúc này -N
+8. He right in here : Anh ấy ở đây : -N
+9. You can pick anyone you want: Có thể lấy bất cứ gì bạn muốn -N
+10. Have a seat: Mời ngồi.
+11. This is actually my first .(n)... ever : Đây là lần đầu tiên tôi  
+12. No better way: Không còn cách nào khác 
+13. Not a nice thing(opinion) : Không tốt đẹp gì 
+14. Are you serious? Thiệt hả?
+15. I heard it from someone : Nghe đồn 
+16. Hear (st) through the grapevine : Nghe đồn
+17. I can't put it into word but I can feel it: Tôi không thể nói đc nhưng tôi có thể cảm nhận được
+18. Take ur hat off: Gỡ nón xuống 
+19. Who wouldn't...: Ai lại không muốn ....
+20. Who I go out first is my own business: Đi vs ai là chuyện của tôi
+21. Why don't u mind ur own : Lo chuyện của mình đi
+22. Who knows: Ai biết 
+23. Dream on = no way: Mơ đi
+24. I can't truth anyone anymore: Không tin ai nữa
+25. Hold on: Chờ chút- Cầm nó - Hold my stuff: cầm đồ giùm tao
+26. Make a toast=Cheer : Nâng li chúc mừng
+27. Who would have though : Ai mà nghĩ là
+28. 28. You're better of+doing st: Tốt hơn bạn nên
+29. We would very much appriciate: Chúng tôi đánh giá rất cao
+30. How do u figure out? Làm như thế nào 
+31. Do u think he still up there? Nó còn đó hả
+32. my life's saving: tiền để dành
+33. While I break a dollar: Khi tôi đi đổi tiền
+35. Neither is fine : Sao cũng được
+36. I wonder I didn't : tự hỏi sao không?
+37. Did I hurt u? Có sao k?
+38. A gentleman never back out on his word: Không thất hứa
+39. That wasn't probably the wise decision in : Đó không phải là quyết định sáng suốt
+40. Don't give up so easily: Đừng từ bỏ dễ dàng 
+41. I dont mean speak out, but there's sthing u must know: Tôi không muốn nói ra nhưng có nhiều thứ bạn phải biết
+42. It no fun at all: Không có gì zui
+43. He under a lot of pressure at work: Anh ta có nhiều áp lực trong công việc
+44. Just leave me alone: Để tôi mình ên đi
+45. Don't bother me: Để tôi yên
+46. What time do u get off: Mấy h xong việc ở cty
+47. I have to got stay calm: Mình phải giữ bình tĩnh
+48. That's strange! Is st wrong? Lạ nhỉ, có chuyện gì hả?
+49. I've got a bad cold. I don't want u to catch it: Tôi bị bệnh, tôi không muốn lây cho u
+50. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
