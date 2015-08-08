@@ -2,6 +2,9 @@ Rule:
 I : Impolite
 P : Polite
 N : Normal  
+s.t = st
+u : you
+r: are
 1. No no, I don't play well with ...(dance,soccer,card): Tôi không biết chơi ...: P
 2. No no, I'm sucking with ..... I 
 3. Beat me: Bó tay -I  
@@ -16,8 +19,8 @@ N : Normal
 12. No better way: Không còn cách nào khác 
 13. Not a nice thing(opinion) : Không tốt đẹp gì 
 14. Are you serious? Thiệt hả?
-15. I heard it from someone : Nghe đồn 
-16. Hear (st) through the grapevine : Nghe đồn
+15. I heard it from someone : Nghe đồn
+16. (Idiom) Hear (st) through the grapevine : Nghe đồn
 17. I can't put it into word but I can feel it: Tôi không thể nói đc nhưng tôi có thể cảm nhận được
 18. Take ur hat off: Gỡ nón xuống 
 19. Who wouldn't...: Ai lại không muốn ....
@@ -45,16 +48,146 @@ N : Normal
 42. It no fun at all: Không có gì zui
 43. He under a lot of pressure at work: Anh ta có nhiều áp lực trong công việc
 44. Just leave me alone: Để tôi mình ên đi
-45. Don't bother me: Để tôi yên
+45. Don't bother me: Để tôi yên or Đừng làm phiền tôi
 46. What time do u get off: Mấy h xong việc ở cty
 47. I have to got stay calm: Mình phải giữ bình tĩnh
 48. That's strange! Is st wrong? Lạ nhỉ, có chuyện gì hả?
 49. I've got a bad cold. I don't want u to catch it: Tôi bị bệnh, tôi không muốn lây cho u
-50. 
+50. pull over to the side of road: tấp xe vô lề
+51. How long are u planning to stay here: Bạn ở đây bao lâu?
+52. Which team do u support/like: Bạn thích bóng nào?
+53. I'm training to be engineer: Tôi đc đào tạo để 
+54. Which year are u in : Bạn học năm mấy
+55. Have u got any plan for: Có độ nào chưa?
+56. Is there anything on at the theater tonight: Có gì ở rạp xem phim tối nay
+57. Are u up to anything this evening? Tối này có làm gì không? :3
+58. Could I borrow u = Could u lend me? Cho mượn tí
+59. all of these thing are common: Tất cả có điểm chung.
+60. get top vnd/usd : đc bộn tien
+61. I understand nothing = I don't understand
+62. Understand nothing = don't understand
+63. wrap myself in blanket : cuộn trong chăn
+64. Once+S+V, so + V : Một khi...., dẫn đến làm gì
+65. What you hold up your breath waiting for..? Nín thở chờ...
+66. Doesn't make any sense: Không có ý nghĩa gì cả.
+67. I cut myself : Tôi bị đứt tay
+68. Are you smell burning : Bạn có ngửi thấy mùi khét ko?
+69. How many second can u hold your breath? : Bạn nín thở được bao lâu?
+70. Not even a little bit: một chút cũng ko
+71. nothing in my mind make sense : tôi không hiểu
+73. second to the last : thứ 2 từ dưới bên
+74. Do u know what : Biết tin gì chưa?
+75. We're in side : chúng ta là một phe
+76. We have to make a call(idiom): Chúng ta phải quyết định thôi.
+77. suitable for me better: Thích hợp với tôi hơn
+78. Everything has a price: Mỗi thứ đề có giá
+79. back-checked already: đã kt lại
+80. It's a lot of heat: Căng rồi đấy
+81. YOLO JDW(my short form) : You only live once . Just do it
+82. I love what I do: Tôi yêu những gì tôi làm. 
+83. Money will come and go : Tiền bạc là phù du(Interested idiom which spoken out by Dominic Toretto(Dom) on FF)
+84. It doesn't make sense = unreasonable: Vô lý
+85. Immediately and infinitely: Ngay và luôn 
+86. We're connected: Chúng ta hiểu nhau mà
+87. better late than nothing : Muộn còn hơn ko./ better s.thing  than nothing: Có còn hơn ko
+88. I couln't agree any more: Đồng ý cả 2 tay
+89. Same as usual: Như mọi khi
+90. Are we get there yet: Chúng ta gần đến chưa.
+91. I supposed yoy already know: Tưởng m biết.
+92. Crush her soul(Love) : Tan nát cõi lòng. If u crush her soul. I'll cut your throat
+						 : M làm em t buồn, t sẽ cắt cổ m
+93. I see how it is: Tôi đã hỉu mọi chuyện.
+94. the rest of the day/book: Phần còn lại của cuốn sách
+95. fates design: cái đm/ định mệnh
+96. not the same at all: Không phải lúc nào cũng z
+97. the ship has sailed(idiom) : Chuyện xưa rồi 
+98. I still hold/remain the original: Tôi còn giữ bản gốc
+99 Men of 40's age often .. : Đàn ông 40 thường/ Men of 40's age often focus on carrer
+100. The feeling look like I win the lotterry: Cảm giác giống như vừa trúng xố
+101. Do u know where I can get my phone repared
+102. How size r u in: Size của bạn bao nhiêu.
+103. Have u get it in smaller size: Có sz nhỏ hơn ko?
+104. take a knee:ngồi xuống đất
+105. stand down: ngồi dậy
+106. Why dont u get some sleep? Sao ko ngủ đi
+107. I woul'd blame u: Tôi ko trách
+108. put picture up: treo tranh lên tường
+109. It my primary/main point of concern: Đó là mối quan tâm chính của tôi
+110. s.t never been higher: cao chưa từng thấy
+111. Stop trying to do it & do it: đừng cố gắng làm cái nọ, cái kia
+112. bring them over here: đem lại đây
+113. It doesn't matter who u r matter what u done: Không quan trọng bạn là ai mà quan trọng bạn làm đc gì
+													(and vice -versa in Vn)
+114. Stop blaming everyone else: đừng đổ lỗi cho người khác
+115. What have u eaten: đã ăn gì chưa?
+116. go safe travel: thượng ạn bình lô
+117. Do u need a hand with anything else: Cần giúp gì nữa ko?
+118. What restaurant u wanna take me to: Nhà hàng nào z ku?
+119. Can u speak clearly about what u say: Bạn có thể nói rõ hơn đc ko?
+120. I thought u quit smoking/wine: Tưởng bỏ thuốc rồi
+121. Handle your business. I'll handle mine: Lo chuyện cậu đi. Tôi lo chuyên tôi
+122. Don't stick your nose on my business: Đừng trỏ mũi vào chuyện của tôi
+123. You're beautiful that mean you can authorize your rule
+	 But I have money of power : Em đẹp em có quyền. Nhưng chị có tiền chị có quyền hơn em
+124. take s.t of one's hand: Lấy s.t từ tay ai
+125. Let regardless love together: Hay là mình bất chấp hết yêu nhau đi
+126. I got a present/gift to u: Có quà nè
+127. roll it over: lật nó lại/ roll back: lật lại sau lưng
+128. a bunch of wire: một bó dây
+129. rid s.o of st : được giải thoát khỏi/ escap: thoát khỏi
+130. I told u it was a bad idea: Tôi nói rồi đó là ý tưởng tồi
+131. Does it gonna hurt: Xài đc ko z?
+132. I'm up for it but... Tôi ủng hộ nhưng...
+133. Ok but not a word about st to sb: Đc nhưng đừng nói st vs sb
+134. Whatever u do but done over: làm gì thì làm nhưng ko làm quá
+135. sense of shame: liêm sĩ
+136. in a nutshell : tóm lại
+138. soon or later: Ko sớm thì muộn
+139. He's on ourside: Nó bên phe mình
+140. the one and only: độc nhất vô nhị
+141. This is what rest of ... Đây là phần còn lại của ...
+142. You're broke. I almost there : Hết tiền hả, t cũng z
+143. Don't make fun of me: đừng chọc quê tôi
+144. It's not funny at all: chả có gì vui
+145. That funny looking: Nhìn mắc cười quá
+146. a little out of breath: đuối sức
+147. let making some sweat: vận động chút nào
+148. oh no, beaten by a girl: thua con gái nữa
+149. I try my best: Tôi đã cố gắng hết sức
+150. Do u go with me = Are u in: Đi ko? 
+151. Go clear our track: Xóa mọi dấu vết
+152. Look after yourself: Bảo trọng
+153. I show u to...(restaurent, cinema, stadium, hotel, motel): tôi sẽ đua bạn đi...
+154. Would you mind .. cảm phiền 
+155. Either is fine: Sao cũng được
+156. Excuse me sir. Would u mind moving over a little : Cảm phiền ông dời lên một ít
+157 Ok that was lucky. We only get one of those
+158. Nothing in mind my make sense. Không hiểu gì cả
+159. What's going on? Có chuyện gì vậy 
 
 
 
 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+					
 
 
 
