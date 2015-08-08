@@ -1,12 +1,15 @@
 /*
- * Author: mrnix(mrLinux)_Tri_rom
+ * Author: mrnix_Tri_rom
  * Date : 22 - 7 - 2015
- * pop up a message which contains 5-6 spoken English sentences.
- * With a number of frequencies, you can easily learn by heart that sentences.
- * You'll wonder where I can find it? Don't concern, you can seek
- * from film, music, ... enven from the book that you learned.
+ * pop up frequently a message which contains 5-6 spoken English sentences.
+ * so that you can easily learn by heart that sentences.
+ * (ex: you open com 8h per day so you have 8*60/5 sentences per
+ * "day 5 minutes popup once").
+ * You'll wonder where I can find source? Don't concern about this, you can seek
+ * from film, music, ... enven from the ebook that you learned.
+ * My source are found almost from film.
  * Let save and pop up up up :)
- * Ps: viết chắc có sai. Luyện viết khó vãi.
+ * Ps: Improving writing skill so hard. :(
 */
 #include "systemtray.h"
 
@@ -30,9 +33,9 @@ cSystemTray::cSystemTray(QWidget* parent):QWidget(parent)
     m_buttonOpen->setText("Open file");
     m_buttonShowIcon->setText("Show Icon");
     m_buttonShowMessage->setText("Show Message");
-    m_spinBoxDuration->setSuffix(" s");
+    m_spinBoxDuration->setSuffix("s");
     m_spinBoxDuration->setValue(30);
-    m_spinBoxDuration->setRange(1,100);
+    m_spinBoxDuration->setRange(1,120);
 
     //setSize
     m_buttonOpen->setFixedSize(300,50);
@@ -68,7 +71,7 @@ void cSystemTray::showMessage()
 void cSystemTray::open()
 {
     QString fileName = QFileDialog::getOpenFileName(this,
-                            tr("Open File"), "",
+                            tr("Open File"), "/home/mrnix/ENG/englishEveryDay.txt",
                             tr("Text Files (*.txt);;All files (*.*)"));
     if (fileName != "")
     {
