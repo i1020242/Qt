@@ -2,9 +2,6 @@ Rule:
 I : Impolite
 P : Polite
 N : Normal  
-s.t = st
-u : you
-r: are
 1. No no, I don't play well with ...(dance,soccer,card): Tôi không biết chơi ...: P
 2. No no, I'm sucking with ..... I 
 3. Beat me: Bó tay -I  
@@ -19,8 +16,8 @@ r: are
 12. No better way: Không còn cách nào khác 
 13. Not a nice thing(opinion) : Không tốt đẹp gì 
 14. Are you serious? Thiệt hả?
-15. I heard it from someone : Nghe đồn
-16. (Idiom) Hear (st) through the grapevine : Nghe đồn
+15. I heard it from someone : Nghe đồn 
+16. Hear (st) through the grapevine : Nghe đồn
 17. I can't put it into word but I can feel it: Tôi không thể nói đc nhưng tôi có thể cảm nhận được
 18. Take ur hat off: Gỡ nón xuống 
 19. Who wouldn't...: Ai lại không muốn ....
@@ -164,6 +161,25 @@ r: are
 157 Ok that was lucky. We only get one of those
 158. Nothing in mind my make sense. Không hiểu gì cả
 159. What's going on? Có chuyện gì vậy 
+160. mark my word: nhớ đó
+161. got a minute: đợi chút
+162. What on your mind(sadness)
+163. nothing particular : không có gì đặc biệt
+164. There no way to know: ai mà biết
+165. What the hell are u doing : đang làm cái ** gì z?
+166. It's a deal : quyết định z đi
+167. What give = What happen: Có chuyện gì z?
+168. Go Dutch: Đi Hà Lan-> câu này dùng khi đi ăn mà mạnh ai nấy trả
+169. Don't joke with me: Đừng giỡn = Are u serious
+170. Grab a bite: tìm gì ăn đi
+171. take easy = calm down : bình tĩnh
+172. Don't sweat it = Don't worry : Đừng lo lắng
+173. My 2 cents: Ý kiến của tôi(khiêm tốn, nhỏ nhoi)
+173. It a piece of cake: Dễ ợt
+174. Poor you/him/her : Tôi nghiệp
+175. Một vài idiom về tình iu
+Hit it off: Phải lòng / Love at first sight : Tình yêu trời đánh(sét)/puppy love: tình yêu học trò
+Tie the knot: Bị cột = get married
 
 
 
