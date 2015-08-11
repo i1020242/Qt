@@ -1,0 +1,8 @@
+1. git init
+2. touch README.rdoc
+3. git status
+4. git add . //add all file
+5. git commit -m "first commit"
+6. git remote add origin https://github.com/i1020242/ALGOR.git
+7. git push -u origin master
+Note: remote origin b4 push git remote rm origin

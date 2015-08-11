@@ -71,7 +71,7 @@ void cSystemTray::showMessage()
 void cSystemTray::open()
 {
     QString fileName = QFileDialog::getOpenFileName(this,
-                            tr("Open File"), "/home/mrnix/ENG/englishEveryDay.txt",
+                            tr("Open File"), "/home/mrnix/ENG/englishEveryday.txt",
                             tr("Text Files (*.txt);;All files (*.*)"));
     if (fileName != "")
     {
