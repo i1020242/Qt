@@ -1,15 +1,15 @@
 /*
  * Author: mrnix_Tri_rom
  * Date : 22 - 7 - 2015
- * pop up frequently a message which contains 5-6 spoken English sentences.
- * so that you can easily learn by heart that sentences.
+ * pop up frequently a notifycation which contains 5-6 spoken English sentences.
+ * so that you can easily learn by heart ones.
  * (ex: you open com 8h per day so you have 8*60/5 sentences per
- * "day 5 minutes popup once").
+ * day "5 minutes popup once").
  * You'll wonder where I can find source? Don't concern about this, you can seek
  * from film, music, ... enven from the ebook that you learned.
- * My source are found almost from film.
+ * My resources are found almost from film.
  * Let save and pop up up up :)
- * Ps: Improving writing skill so hard. :(
+ * Ps: Improving writing skill is so fucking hard.
 */
 #include "systemtray.h"
 
@@ -52,6 +52,7 @@ cSystemTray::cSystemTray(QWidget* parent):QWidget(parent)
 
 }
 
+//icon
 void cSystemTray::showIcon()
 {
 
@@ -65,9 +66,11 @@ void cSystemTray::showMessage()
     qint32 duration = getDuration*1000;
     QString message = m_textEdit->toPlainText();
     m_notifyIconShow->showMessage(title,message, QSystemTrayIcon::Information, duration);
+    //timer-after 5 minutes, the notify is gonna re-up
     QTimer::singleShot(5*60*1000,this,SLOT(showMessage()));
 }
 
+//open dialog
 void cSystemTray::open()
 {
     QString fileName = QFileDialog::getOpenFileName(this,
