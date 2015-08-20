@@ -45,8 +45,8 @@ cSystemTray::cSystemTray(QWidget* parent):QWidget(parent)
     QObject::connect(m_buttonShowIcon,SIGNAL(clicked()),this,SLOT(showIcon()));
     QObject::connect(m_buttonShowMessage,SIGNAL(clicked()),this,SLOT(showMessage()));
     QObject::connect(m_buttonOpen,SIGNAL(clicked()),this,SLOT(open()));
-    //slot open(); được khai báo ở class nào thì this là con trỏ
-    //tới object đc tạo ra từ class
+    //slot open(); which declare in any class then this is pointer point to
+    //object which make from that class
     m_notifyIconShow = new QSystemTrayIcon(this);
     m_notifyIconShow->setIcon(QIcon(":/icon.jpeg"));
 
